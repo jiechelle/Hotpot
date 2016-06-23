@@ -1,0 +1,89 @@
+body {
+	padding: 20px 40px;
+	text-align: center;
+	background-image: url("Hotpot/hotpot8.jpg");
+	background-size: 1000px 600px;
+	/*background-size: 100%;*/
+    background-repeat: no-repeat;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+	font-family: comic;
+	padding: 10px 80px;
+}
+
+
+/*li {
+	display: inline;
+	margin-top: 10px;
+	text-align: center;
+}*/
+
+
+
+
+#huoguo {
+
+	font-size: 40px;
+	color: white;
+	border-radius: 40px;
+	opacity: 0.9;
+	
+	padding: 10px;
+	display: inline;
+	list-style-type: none;
+	background: black;
+
+}
+
+.gale{
+	border-radius: 33px;
+	border: 40px;
+	border-style: solid;
+}
+
+
+.navigation {
+    background-color: black;
+    text-align: center;
+}
+
+.navigation li {
+   
+    display: inline;
+    font-weight: bold;
+    font-size: 30px;
+    list-style-type: none;
+    padding-right: 10%;
+}
+
+/*.navigation li {
+	text-align: center;
+	padding-left: 20px;
+	display: inline-flex;
+	margin: 0 auto;
+	list-style: none;
+	font-size: 24px;
+	background: #006666;
+	width:60%;
+	height: 50px;
+	opacity: 0.7;
+    background: rgba(0, 102, 102, 0.7);
+	padding: 10px;
+	border-top: 10px solid rgba(0,0,0,0.2); 
+	border-bottom: 10px solid rgba(0,0,0,0.2); 
+}*/
+
+a{	
+
+	text-decoration: none;
+	text-align: center;
+	color: white;
+}
+
+
+a:hover {
+	text-decoration: underline;
+}
+
